@@ -1,0 +1,14 @@
+﻿Title,Type,"Start time","End time",Graduation,Status
+"Vamos nos conhecer um pouco",Lesson,"2020-07-30 17:16:03","2020-07-30 17:16:03",,Completed
+Introdução,Lesson,"2020-07-30 17:23:20","2020-07-30 17:23:20",,Completed
+"Avaliação de conhecimentos prévios",Quiz,"2020-07-30 17:24:35","2020-07-30 17:30:14",Passed,Completed
+"Avaliação de conhecimentos prévios (Parte 2)",Quiz,"2020-08-12 17:19:03","2020-08-12 17:26:45",Passed,Completed
+"Construção geométrica: Curvas e Lugar geométrico",Lesson,"2020-08-13 10:24:36","2020-08-13 10:24:36",,Completed
+"Mecanismos que descrevem movimentos harmônicos",Lesson,"2020-08-13 10:26:14","2020-08-13 10:26:14",,Completed
+"Projeto de Mecanismo para desenhar padrões de Lissajous",Lesson,"2020-08-13 10:31:31","2020-08-13 10:31:31",,Completed
+"Avaliação Final (Parte 1)",Quiz,"2020-08-13 10:31:44","2020-08-13 10:47:22",Passed,Completed
+"Avaliação Final (Parte 2)",Quiz,"2020-08-13 10:47:34","2020-08-13 11:09:58",Failed,Completed
+"Avaliação Final (Parte 3)",Quiz,"2020-08-13 11:10:13","2020-08-13 11:13:08",Failed,Completed
+"Avaliação Final (Parte 4)",Quiz,"2020-08-13 11:13:28","2020-08-13 11:19:07",Failed,Completed
+"Questionário Parte 1",Lesson,"2020-08-13 17:27:46","2020-08-13 17:27:46",,Completed
+"Questionário Parte 2",Lesson,"2020-08-13 17:28:36","2020-08-13 17:28:36",,Completed
